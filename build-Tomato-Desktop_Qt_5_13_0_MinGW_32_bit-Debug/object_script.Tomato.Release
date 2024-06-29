@@ -1,0 +1,12 @@
+release/countrecord.o
+release/main.o
+release/memoryday.o
+release/scrolllabel.o
+release/starttime.o
+release/widget.o
+release/qrc_resource.o
+release/moc_countrecord.o
+release/moc_memoryday.o
+release/moc_scrolllabel.o
+release/moc_starttime.o
+release/moc_widget.o

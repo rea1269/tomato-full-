@@ -1,0 +1,12 @@
+debug/countrecord.o
+debug/main.o
+debug/memoryday.o
+debug/scrolllabel.o
+debug/starttime.o
+debug/widget.o
+debug/qrc_resource.o
+debug/moc_countrecord.o
+debug/moc_memoryday.o
+debug/moc_scrolllabel.o
+debug/moc_starttime.o
+debug/moc_widget.o

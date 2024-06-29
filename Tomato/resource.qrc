@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resource/image/R_C_black.jpg</file>
+        <file>resource/image/miu_zero.png</file>
+        <file>resource/image/miao_bg.png</file>
+        <file>resource/image/widget_bg.png</file>
+        <file>resource/image/mem_bg.PNG</file>
+        <file>resource/image/start_bg.PNG</file>
+        <file>resource/image/record_bg.png</file>
+    </qresource>
+</RCC>
